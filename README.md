@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AtmoGraph - Supply Chain Ripple Effect Predictor
 
 ## 📌 Project Overview
@@ -80,3 +81,26 @@ The objective of AtmoGraph is to:
 The next phase will focus on designing the supply chain graph model and integrating the Neo4j graph database.
 
 ---
+=======
+# AtmoGraph: Supply Chain Ripple Effect Predictor
+
+
+
+## Overview
+
+AtmoGraph is a team project focused on predicting the ripple effects of disruptions in supply chains using data analysis and machine learning. The project aims to provide insights that help improve supply chain resilience and decision-making.
+
+
+
+## Team Members
+
+- Meshvi 
+
+- Heena
+
+- Princi
+
+- Sandhya
+
+- Shrrivathsan
+>>>>>>> 1ec7f211009864a4f9edb61a3312e796abba4111
