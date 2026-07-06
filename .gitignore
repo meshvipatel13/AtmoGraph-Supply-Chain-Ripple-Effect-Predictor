@@ -1,0 +1,7 @@
+backend/data/*.csv
+backend/scripts/*.cypher
+node_modules/
+__pycache__/
+.venv/
+.env
+.vscode/
