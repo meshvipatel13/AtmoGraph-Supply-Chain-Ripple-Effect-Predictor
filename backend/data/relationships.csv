@@ -1,0 +1,23 @@
+from,to,relationship
+TSMC,Apple,SUPPLIES
+Samsung Semiconductor,Dell,SUPPLIES
+Intel Foundry,HP,SUPPLIES
+LG Chem,Tesla,SUPPLIES
+Sony Sensors,Apple,SUPPLIES
+
+Apple,Port of Shanghai,EXPORTS_TO
+Dell,Port of Shanghai,EXPORTS_TO
+HP,Port of Singapore,EXPORTS_TO
+Tesla,Port of Los Angeles,EXPORTS_TO
+
+Port of Shanghai,Maersk,SHIPS_VIA
+Port of Singapore,MSC,SHIPS_VIA
+Port of Los Angeles,CMA CGM,SHIPS_VIA
+
+Maersk,California Warehouse,DELIVERS_TO
+MSC,Texas Warehouse,DELIVERS_TO
+CMA CGM,Toronto Warehouse,DELIVERS_TO
+
+California Warehouse,Amazon,SUPPLIES_TO
+Texas Warehouse,Best Buy,SUPPLIES_TO
+Toronto Warehouse,Walmart,SUPPLIES_TO

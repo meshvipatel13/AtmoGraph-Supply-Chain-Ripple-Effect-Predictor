@@ -1,0 +1,5 @@
+port_id,name,country,status
+PORT001,Port of Shanghai,China,OPEN
+PORT002,Port of Rotterdam,Netherlands,OPEN
+PORT003,Port of Los Angeles,USA,OPEN
+PORT004,Port of Singapore,Singapore,OPEN

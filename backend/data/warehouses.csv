@@ -1,0 +1,4 @@
+warehouse_id,name,country,capacity
+WH001,California Warehouse,USA,50000
+WH002,Texas Warehouse,USA,45000
+WH003,Toronto Warehouse,Canada,35000
