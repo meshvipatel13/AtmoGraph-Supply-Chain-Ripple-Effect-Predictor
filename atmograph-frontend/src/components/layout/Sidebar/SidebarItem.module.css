@@ -1,0 +1,43 @@
+.item{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:14px 16px;
+    margin-bottom:8px;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    color:var(--text-secondary);
+
+    transition:.25s;
+}
+
+.item:hover{
+    background:#2b3545;
+    color:white;
+}
+
+.active{
+    background:#2F3E80;
+    color:white;
+}
+
+.left{
+    display:flex;
+    gap:14px;
+    align-items:center;
+}
+
+.badge{
+    background:#ef4444;
+    color:white;
+
+    padding:2px 8px;
+
+    border-radius:20px;
+
+    font-size:12px;
+}
