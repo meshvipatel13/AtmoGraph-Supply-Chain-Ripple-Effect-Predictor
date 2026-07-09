@@ -1,0 +1,4 @@
+shipper_id,name,country,capacity
+SHIP001,Maersk,Denmark,100000
+SHIP002,MSC,Switzerland,95000
+SHIP003,CMA CGM,France,85000

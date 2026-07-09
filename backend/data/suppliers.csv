@@ -1,0 +1,7 @@
+supplier_id,name,country,product,risk
+SUP001,TSMC,Taiwan,Semiconductor Chips,LOW
+SUP002,Samsung Semiconductor,South Korea,Memory Chips,LOW
+SUP003,Intel Foundry,USA,Processors,LOW
+SUP004,LG Chem,South Korea,Battery Cells,LOW
+SUP005,Sony Sensors,Japan,Camera Sensors,LOW
+
