@@ -11,8 +11,9 @@
     flex-direction:column;
 }
 
-.mainContent{
-    flex:1;
-    padding:24px;
-    overflow-y:auto;
+.mainContent {
+  flex: 1;
+  padding: 24px;
+  background-color: #0B1220;
+  min-height: 100vh;
 }

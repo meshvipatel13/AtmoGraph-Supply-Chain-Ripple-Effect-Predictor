@@ -1,7 +1,9 @@
 import styles from "./DashboardBody.module.css";
 
 import SupplyChainGraph from "../../graph/SupplyChainGraph";
-import NodeDetails from "../../graph/NodeDetails";
+// import NodeDetails from "../../graph/NodeDetails";
+import NodeDetails from "../../dashboard/NodeDetails";
+
 
 const DashboardBody = () => {
   return (
@@ -12,7 +14,7 @@ const DashboardBody = () => {
       </div>
 
       <div className={styles.right}>
-        <NodeDetails />
+  <NodeDetails />
       </div>
 
     </section>
