@@ -1,0 +1,46 @@
+.card {
+  background: #111827;
+  border: 1px solid #293244;
+  border-radius: 18px;
+  padding: 22px;
+  color: white;
+}
+
+.card h3 {
+  margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.chartContainer {
+  width: 100%;
+  height: 240px;
+}
+
+.legend {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+}
+
+.color {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.legendItem span {
+  flex: 1;
+  color: #cbd5e1;
+}
+
+.legendItem strong {
+  color: white;
+}
