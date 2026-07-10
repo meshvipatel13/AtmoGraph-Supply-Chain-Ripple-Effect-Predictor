@@ -1,106 +1,178 @@
-<<<<<<< HEAD
-# AtmoGraph - Supply Chain Ripple Effect Predictor
+# 🌍 AtmoGraph – Supply Chain Ripple Effect Predictor
 
 ## 📌 Project Overview
 
-AtmoGraph is an AI-powered Supply Chain Ripple Effect Predictor that aims to analyze disruptions in global supply chains and predict their downstream impact using Graph Neural Networks (GNNs), Natural Language Processing (NLP), and Graph Databases.
+AtmoGraph is an AI-powered Supply Chain Ripple Effect Prediction system designed to identify and predict the impact of supply chain disruptions across a global network.
 
-The project is being developed as part of an internship and follows a week-wise development roadmap.
+The project combines **Graph Databases (Neo4j)**, **Natural Language Processing (NLP)**, **Graph Neural Networks (GNNs)**, and an **interactive React dashboard** to analyze disruption events and forecast their downstream effects on manufacturers, logistics providers, warehouses, and retailers.
+
+This project is being developed as part of an internship following a structured week-wise roadmap.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Problem Statement
 
-### Backend
+Traditional supply chain prediction systems analyze companies independently using linear time-series data. They struggle to understand complex global supplier networks and cannot accurately predict how a disruption at one location can affect multiple industries worldwide.
+
+AtmoGraph solves this challenge by representing the entire supply chain as a graph, allowing disruptions to propagate through connected entities and enabling intelligent ripple-effect prediction.
+
+---
+
+# 🎯 Objectives
+
+- Build a graph-based global supply chain network.
+- Model suppliers, manufacturers, ports, logistics companies, warehouses, and retailers.
+- Detect disruptions from news using NLP.
+- Predict downstream delays using Graph Neural Networks.
+- Visualize supply chain risks through an interactive dashboard.
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
 - Python
-- FastAPI (Planned)
 - Neo4j Graph Database
-- PyTorch Geometric (Planned)
-- spaCy / Hugging Face (Planned)
+- Cypher Query Language
+- FastAPI *(Planned)*
+- spaCy *(Planned)*
+- Hugging Face Transformers *(Planned)*
+- PyTorch Geometric *(Planned)*
 
-### Frontend
+## Frontend
+
 - React
-- React Flow / D3.js (Planned)
+- React Flow *(Planned)*
+- D3.js *(Planned)*
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```
 AtmoGraph/
 │
 ├── backend/
 │   ├── api/
-│   ├── graph/
-│   ├── nlp/
-│   ├── gnn/
 │   ├── database/
+│   ├── graph/
+│   ├── gnn/
+│   ├── nlp/
+│   ├── scripts/
+│   ├── data/
 │   └── main.py
 │
 ├── frontend/
 │
-├── datasets/
-│
 ├── docs/
 │
 ├── models/
+│
+├── datasets/
+│
+├── .gitignore
 │
 └── README.md
 ```
 
 ---
 
-## 📅 Development Progress
+# 🌐 Supply Chain Graph Model
 
-### ✅ Week 1 - Day 1
+```
+Supplier
+    │
+SUPPLIES
+    ▼
+Manufacturer
+    │
+EXPORTS_TO
+    ▼
+Port
+    │
+SHIPS_VIA
+    ▼
+Shipping Company
+    │
+DELIVERS_TO
+    ▼
+Warehouse
+    │
+SUPPLIES_TO
+    ▼
+Retailer
+```
 
-- Project repository initialized
-- Folder structure created
-- Development environment setup
-- Neo4j Desktop installed
-- React project initialized
-- Backend project structure organized
+---
+
+# 📊 Current Dataset
+
+The current graph contains realistic supply chain entities including:
+
+- Suppliers
+- Manufacturers
+- Ports
+- Shipping Companies
+- Warehouses
+- Retailers
+
+These entities are connected through supply chain relationships such as:
+
+- SUPPLIES
+- EXPORTS_TO
+- SHIPS_VIA
+- DELIVERS_TO
+- SUPPLIES_TO
 
 ---
 
-## 🎯 Project Goal
+# ✅ Week 1 Progress
 
-The objective of AtmoGraph is to:
+### Graph Foundation
 
-- Model a global supply chain as a graph
-- Detect disruptions from news sources using NLP
-- Predict ripple effects using Graph Neural Networks
-- Visualize supply chain risks through an interactive dashboard
+- ✔ Neo4j Desktop setup completed
+- ✔ Graph database created
+- ✔ Supply chain graph schema designed
+- ✔ Cypher ingestion scripts implemented
+- ✔ CSV datasets created
+- ✔ Nodes successfully imported into Neo4j
+- ✔ Relationships successfully created
+- ✔ Supply chain graph visualized
+
+---
+
+# 🔜 Upcoming Development
+
+## Week 2
+
+- NLP Pipeline
+- Named Entity Recognition (NER)
+- News ingestion
+- Risk score updates in Neo4j
+
+## Week 3
+
+- Graph Neural Network (PyTorch Geometric)
+- Ripple effect prediction
+- Delay forecasting
+
+## Week 4
+
+- FastAPI Integration
+- React Dashboard
+- Interactive graph visualization
+- Timeline-based prediction (30/60/90 days)
 
 ---
 
-## 📌 Current Status
+# 📈 Future Enhancements
 
-🟢 Project initialization completed.
-
-The next phase will focus on designing the supply chain graph model and integrating the Neo4j graph database.
+- Live news monitoring
+- Real-time graph updates
+- Enterprise-scale supply chain visualization
+- Multi-hop disruption prediction
+- Risk analytics dashboard
 
 ---
-=======
-# AtmoGraph: Supply Chain Ripple Effect Predictor
 
-
-
-## Overview
-
-AtmoGraph is a team project focused on predicting the ripple effects of disruptions in supply chains using data analysis and machine learning. The project aims to provide insights that help improve supply chain resilience and decision-making.
-
-
-
-## Team Members
-
-- Meshvi 
-
-- Heena
-
-- Princi
-
-- Sandhya
-
-- Shrrivathsan
->>>>>>> 1ec7f211009864a4f9edb61a3312e796abba4111
