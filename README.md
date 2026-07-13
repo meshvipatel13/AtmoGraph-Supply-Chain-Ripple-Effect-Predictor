@@ -176,3 +176,60 @@ These entities are connected through supply chain relationships such as:
 
 ---
 
+---
+
+# ✅ Week 2 Progress
+
+### NLP Pipeline
+
+Implemented the initial Natural Language Processing (NLP) module for extracting important entities from supply chain disruption news.
+
+### Features Completed
+
+- ✔ Created dedicated NLP module
+- ✔ Configured spaCy NLP library
+- ✔ Installed English language model (`en_core_web_sm`)
+- ✔ Created sample news dataset for testing
+- ✔ Implemented Named Entity Recognition (NER)
+- ✔ Successfully extracted organizations and locations from supply chain news
+- ✔ Prepared the pipeline for Neo4j graph integration
+
+### Current NLP Workflow
+
+```
+News Text
+      │
+      ▼
+spaCy NLP
+      │
+      ▼
+Named Entity Recognition (NER)
+      │
+      ▼
+Organizations & Locations
+      │
+      ▼
+(Next Step)
+Neo4j Risk Update
+```
+
+### Sample News
+
+```
+A strike at the Port of Shanghai has delayed Apple shipments.
+Tesla is facing battery shortages because LG Energy Solution has reduced production.
+Heavy rainfall near the Port of Singapore has affected Maersk shipping schedules.
+```
+
+### Technologies Used
+
+- Python
+- spaCy
+- Named Entity Recognition (NER)
+
+### Upcoming Tasks
+
+- Connect NLP output with Neo4j
+- Automatically update node risk values
+- Integrate live news feeds
+- Prepare graph data for GNN prediction
