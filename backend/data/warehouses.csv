@@ -1,4 +1,6 @@
 warehouse_id,name,country,capacity
-WH001,California Warehouse,USA,50000
-WH002,Texas Warehouse,USA,45000
-WH003,Toronto Warehouse,Canada,35000
+WH001,California Distribution Center,USA,50000
+WH002,Texas Distribution Center,USA,45000
+WH003,Toronto Distribution Center,Canada,40000
+WH004,Berlin Distribution Center,Germany,35000
+WH005,Mumbai Distribution Center,India,30000

@@ -1,0 +1,27 @@
+.card{
+
+background:#111C2D;
+
+border:1px solid #2B3547;
+
+border-radius:16px;
+
+height:100%;
+
+padding:24px;
+
+}
+
+.placeholder{
+
+height:500px;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+color:#64748B;
+
+}

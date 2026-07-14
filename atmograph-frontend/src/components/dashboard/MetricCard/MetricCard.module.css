@@ -1,0 +1,75 @@
+.card {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+
+  background: #111c2d;
+  border: 1px solid #2b3547;
+  border-radius: 16px;
+
+  padding: 20px;
+
+  transition: 0.25s;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  border-color: #3b82f6;
+}
+
+.iconContainer {
+  width: 60px;
+  height: 60px;
+
+  border-radius: 14px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+}
+
+.content {
+  flex: 1;
+}
+
+.title {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+.content h2 {
+  font-size: 30px;
+  margin-bottom: 8px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.up {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #22c55e;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.down {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #ef4444;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.compare {
+  color: #94a3b8;
+  font-size: 13px;
+}

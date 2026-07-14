@@ -1,6 +1,9 @@
 manufacturer_id,name,country,industry,risk
 MAN001,Apple,USA,Consumer Electronics,LOW
-MAN002,Dell,USA,Computers,LOW
-MAN003,HP,USA,Computers,LOW
-MAN004,Tesla,USA,Electric Vehicles,LOW
+MAN002,Tesla,USA,Electric Vehicles,LOW
+MAN003,Dell,USA,Computers,LOW
+MAN004,HP,USA,Computers,LOW
 MAN005,Lenovo,China,Computers,LOW
+MAN006,Sony,Japan,Consumer Electronics,LOW
+MAN007,Cisco,USA,Networking,LOW
+MAN008,NVIDIA,USA,AI Hardware,LOW

@@ -1,22 +1,40 @@
-from_id,to_id,relationship
-S001,M001,SUPPLIES
-S002,M002,SUPPLIES
-S003,M003,SUPPLIES
-S004,M004,SUPPLIES
+from,to,relationship
+TSMC,Apple,SUPPLIES
+TSMC,NVIDIA,SUPPLIES
+Samsung Semiconductor,Apple,SUPPLIES
+Samsung Semiconductor,Dell,SUPPLIES
+Intel Foundry,HP,SUPPLIES
+Micron,Dell,SUPPLIES
+SK Hynix,Lenovo,SUPPLIES
+Sony Semiconductor,Sony,SUPPLIES
+LG Chem,Tesla,SUPPLIES
+Bosch,Tesla,SUPPLIES
+Infineon,Cisco,SUPPLIES
+Murata,Apple,SUPPLIES
 
-M001,P001,EXPORTS_TO
-M002,P001,EXPORTS_TO
-M003,P002,EXPORTS_TO
-M004,P003,EXPORTS_TO
+Apple,Port of Shanghai,EXPORTS_TO
+Tesla,Port of Los Angeles,EXPORTS_TO
+Dell,Port of Singapore,EXPORTS_TO
+HP,Port of Singapore,EXPORTS_TO
+Lenovo,Port of Shanghai,EXPORTS_TO
+Sony,Port of Hamburg,EXPORTS_TO
+Cisco,Port of Rotterdam,EXPORTS_TO
+NVIDIA,Port of Shanghai,EXPORTS_TO
 
-P001,SH001,SHIPS_VIA
-P002,SH002,SHIPS_VIA
-P003,SH003,SHIPS_VIA
+Port of Shanghai,Maersk,SHIPS_VIA
+Port of Singapore,MSC,SHIPS_VIA
+Port of Rotterdam,CMA CGM,SHIPS_VIA
+Port of Los Angeles,COSCO,SHIPS_VIA
+Port of Hamburg,Hapag-Lloyd,SHIPS_VIA
 
-SH001,W001,DELIVERS_TO
-SH002,W002,DELIVERS_TO
-SH003,W003,DELIVERS_TO
+Maersk,California Distribution Center,DELIVERS_TO
+MSC,Texas Distribution Center,DELIVERS_TO
+CMA CGM,Toronto Distribution Center,DELIVERS_TO
+COSCO,Mumbai Distribution Center,DELIVERS_TO
+Hapag-Lloyd,Berlin Distribution Center,DELIVERS_TO
 
-W001,R001,SUPPLIES_TO
-W002,R002,SUPPLIES_TO
-W003,R003,SUPPLIES_TO
+California Distribution Center,Amazon,SUPPLIES_TO
+Texas Distribution Center,Best Buy,SUPPLIES_TO
+Toronto Distribution Center,Walmart,SUPPLIES_TO
+Berlin Distribution Center,Target,SUPPLIES_TO
+Mumbai Distribution Center,Costco,SUPPLIES_TO

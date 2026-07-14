@@ -2,3 +2,5 @@ retailer_id,name,country
 RET001,Amazon,USA
 RET002,Best Buy,USA
 RET003,Walmart,USA
+RET004,Target,USA
+RET005,Costco,USA
