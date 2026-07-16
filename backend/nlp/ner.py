@@ -1,4 +1,6 @@
 import spacy
+from entity_matcher import match_entity
+from graph_update import update_risk
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -11,4 +13,9 @@ print("Entities Found")
 print("-"*40)
 
 for ent in doc.ents:
-    print(ent.text,ent.label_)
+
+    print(ent.text, ent.label_)
+
+    match_entity(ent.text)
+
+    update_risk(ent.text)
