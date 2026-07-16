@@ -1,0 +1,19 @@
+.layout{
+    display:flex;
+    height:100vh;
+    width:100%;
+    background:var(--background);
+}
+
+.rightSection{
+    flex:1;
+    display:flex;
+    flex-direction:column;
+}
+
+.mainContent {
+  flex: 1;
+  padding: 24px;
+  background-color: #0B1220;
+  min-height: 100vh;
+}

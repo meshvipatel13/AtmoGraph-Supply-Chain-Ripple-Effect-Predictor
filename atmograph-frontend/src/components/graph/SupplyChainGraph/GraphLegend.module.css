@@ -1,0 +1,41 @@
+.legend {
+  display: flex;
+  gap: 28px;
+
+  padding: 18px 28px;
+
+  border-top: 1px solid #293244;
+
+  background: #111827;
+}
+
+.legend div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  color: #cbd5e1;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+
+  border-radius: 50%;
+}
+
+.supplier {
+  background: #3b82f6;
+}
+
+.manufacturer {
+  background: #22c55e;
+}
+
+.port {
+  background: #f59e0b;
+}
+
+.risk {
+  background: #ef4444;
+}
