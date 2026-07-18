@@ -2,6 +2,8 @@ import styles from "./AnalyticsGrid.module.css";
 
 import RiskDistribution from "../RiskDistribution";
 import TopRiskCountries from "../TopRiskCountries";
+import Timeline from "../Timeline/Timeline";
+import RecentAlerts from "../RecentAlerts/RecentAlerts";
 
 const AnalyticsGrid = () => {
   return (
@@ -10,13 +12,8 @@ const AnalyticsGrid = () => {
 
       <TopRiskCountries />
 
-      <div className={styles.placeholder}>
-        Timeline
-      </div>
-
-      <div className={styles.placeholder}>
-        Recent Alerts
-      </div>
+      <Timeline />
+      <RecentAlerts />
     </div>
   );
 };

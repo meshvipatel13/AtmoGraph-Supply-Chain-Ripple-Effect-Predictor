@@ -1,0 +1,6 @@
+.card { background:#111827; border:1px solid #293244; border-radius:18px; padding:22px; min-height:260px; }
+.heading { display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; }.heading h3 { font-size:18px; }.heading button { background:none; color:#60a5fa; font-size:13px; }
+.alerts { display:grid; }.alert { display:flex; align-items:center; gap:12px; padding:15px 0; border-bottom:1px solid #263244; }.alert:last-child { border:none; }
+.symbol { flex:0 0 auto; height:34px; width:34px; border-radius:10px; display:grid; place-items:center; }.critical { color:#f87171; }.symbol.critical { background:#7f1d1d55; }.high { color:#fbbf24; }.symbol.high { background:#78350f55; }.medium { color:#60a5fa; }.symbol.medium { background:#1e3a8a55; }
+.copy { min-width:0; flex:1; }.copy strong,.copy span { display:block; }.copy strong { font-size:14px; margin-bottom:4px; }.copy span { color:#94a3b8; font-size:12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.risk { display:flex; align-items:center; gap:7px; color:#64748b; }.risk b { font-size:13px; }

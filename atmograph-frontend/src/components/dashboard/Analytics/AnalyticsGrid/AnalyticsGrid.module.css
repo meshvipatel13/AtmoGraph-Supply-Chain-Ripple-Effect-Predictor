@@ -5,13 +5,6 @@
   margin-top: 24px;
 }
 
-.placeholder {
-  background: #111827;
-  border: 1px solid #293244;
-  border-radius: 16px;
-  min-height: 260px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #94a3b8;
+@media (max-width: 850px) {
+  .grid { grid-template-columns: 1fr; }
 }
