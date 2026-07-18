@@ -26,4 +26,4 @@ REQUIRE w.warehouse_id IS UNIQUE;
 // Retailer
 CREATE CONSTRAINT retailer_id_unique IF NOT EXISTS
 FOR (r:Retailer)
-REQUIRE r.retailer_id IS UNIQUE;
+REQUIRE r.retailer_id IS UNIQUE;    
