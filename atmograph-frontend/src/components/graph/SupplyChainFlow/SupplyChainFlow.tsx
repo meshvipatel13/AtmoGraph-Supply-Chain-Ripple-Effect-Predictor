@@ -5,7 +5,6 @@ import {
   ReactFlow,
   Background,
   Controls,
-  MiniMap,
 } from "@xyflow/react";
 
 import { initialNodes } from "./nodes";

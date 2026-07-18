@@ -39,3 +39,6 @@
     color:#8D99AE;
 
 }
+
+@media (max-width: 980px) { .searchBox { width:min(390px, 44vw); } }
+@media (max-width: 560px) { .searchBox { width:48px; padding:0; justify-content:center; border-color:transparent; background:transparent; }.searchBox input { display:none; } }

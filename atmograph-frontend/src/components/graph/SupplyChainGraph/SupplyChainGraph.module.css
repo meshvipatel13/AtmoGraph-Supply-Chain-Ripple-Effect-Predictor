@@ -76,15 +76,13 @@
 
 .graphArea {
   position: relative;
-  height: 700px;
+  height: 560px;
   overflow: hidden;
 
   background-color: #0f172a;
 
-  background-image: url("../../../assets/images/world-map.svg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 90%;
+  background-image: radial-gradient(circle at 50% 50%, rgba(37, 99, 235, .12), transparent 47%), linear-gradient(rgba(71, 85, 105, .15) 1px, transparent 1px), linear-gradient(90deg, rgba(71, 85, 105, .15) 1px, transparent 1px);
+  background-size: auto, 36px 36px, 36px 36px;
 
   opacity: 1;
 }
@@ -96,3 +94,5 @@
 .placeholder p {
   margin-top: 12px;
 }
+
+@media (max-width: 650px) { .header { padding:18px; align-items:flex-start; }.header h2 { font-size:18px; }.actions { gap:7px; }.actions button { width:34px; height:34px; }.actions button:nth-last-child(-n+2) { display:none; }.live { margin-right:2px; font-size:13px; }.graphArea { height:430px; }.legend { padding:14px 18px; gap:13px; flex-wrap:wrap; font-size:13px; } }

@@ -31,3 +31,5 @@
     font-size:13px;
 
 }
+
+@media (max-width: 620px) { .profile > div { display:none; }.profile img { width:36px; height:36px; } }

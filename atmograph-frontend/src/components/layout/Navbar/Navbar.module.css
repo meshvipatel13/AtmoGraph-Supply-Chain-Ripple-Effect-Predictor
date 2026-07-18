@@ -26,3 +26,5 @@
     gap:24px;
 
 }
+
+@media (max-width: 780px) { .navbar { height:68px; padding:0 16px; }.right { gap:14px; }.right > svg:nth-child(2), .right > svg:last-child { display:none; } }
