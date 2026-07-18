@@ -5,9 +5,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Neo4j Configuration
-NEO4J_URI = os.getenv("NEO4J_URI", "neo4j://127.0.0.1:7687")
-NEO4J_USERNAME = os.getenv("NEO4J_USERNAME", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "Atmo@1234")
+
+NEO4J_URI = os.getenv("NEO4J_URI")
+NEO4J_USERNAME = os.getenv("NEO4J_USERNAME")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
 # NewsAPI Configuration
 NEWS_API_KEY = os.getenv("NEWS_API_KEY", "")
