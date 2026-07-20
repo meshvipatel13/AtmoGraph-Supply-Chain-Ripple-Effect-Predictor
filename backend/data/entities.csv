@@ -1,0 +1,98 @@
+article_id,title,entity,label,source,publishedAt
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,India,GPE,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,PE,ORG,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,$1.46 billion,MONEY,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,H1 2026,DATE,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,Q2,CARDINAL,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,43 per cent,MONEY,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,aAuto,ORG,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,nearly $2.8 billion,MONEY,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,the first half,DATE,BusinessLine,2026-07-13T10:39:11Z
+0,India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent,Q2,DATE,BusinessLine,2026-07-13T10:39:11Z
+1,Progress orders emergency ShareFile server shutdown over mystery security threat,ShareFile,ORG,Theregister.com,2026-07-13T10:31:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,Nova Minerals Announces,ORG,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,Completed the Engineering and Design,ORG,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,Antimony Pilot Plant Anchorage,WORK_OF_ART,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,Alaska,GPE,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,"July 13, 2026",DATE,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,GLOBE NEWSWIRE,ORG,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,Nova Minerals Corp,ORG,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,Nova Minerals,WORK_OF_ART,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,NYSE,ORG,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,ASX,ORG,GlobeNewswire,2026-07-13T10:30:00Z
+2,Nova Minerals Announces it has Completed the Engineering and Design of its Antimony Pilot Plant,Estelle,GPE,GlobeNewswire,2026-07-13T10:30:00Z
+3,Hellenic Plastics Industry Association: Resilience strategy needed to keep industry and investment in Europe,Hellenic Plastics Industry Association: Resilience,ORG,Naftemporiki.gr,2026-07-13T10:23:33Z
+3,Hellenic Plastics Industry Association: Resilience strategy needed to keep industry and investment in Europe,Europe,LOC,Naftemporiki.gr,2026-07-13T10:23:33Z
+3,Hellenic Plastics Industry Association: Resilience strategy needed to keep industry and investment in Europe,Hellenic Plastics Industry Association: Resili,ORG,Naftemporiki.gr,2026-07-13T10:23:33Z
+4,Meet the investors and entrepreneurs shopping to keep Canada’s defence supply chain sovereign,Canada,GPE,Biztoc.com,2026-07-13T10:21:23Z
+4,Meet the investors and entrepreneurs shopping to keep Canada’s defence supply chain sovereign,Rym Leulmi,PERSON,Biztoc.com,2026-07-13T10:21:23Z
+4,Meet the investors and entrepreneurs shopping to keep Canada’s defence supply chain sovereign,two,CARDINAL,Biztoc.com,2026-07-13T10:21:23Z
+4,Meet the investors and entrepreneurs shopping to keep Canada’s defence supply chain sovereign,Montreal,GPE,Biztoc.com,2026-07-13T10:21:23Z
+4,Meet the investors and entrepreneurs shopping to keep Canada’s defence supply chain sovereign,Nova Scotia,GPE,Biztoc.com,2026-07-13T10:21:23Z
+4,Meet the investors and entrepreneurs shopping to keep Canada’s defence supply chain sovereign,MBA,WORK_OF_ART,Biztoc.com,2026-07-13T10:21:23Z
+4,Meet the investors and entrepreneurs shopping to keep Canada’s defence supply chain sovereign,15 years,DATE,Biztoc.com,2026-07-13T10:21:23Z
+5,HUBG Class Alert: Hub Group Misrepresentations about Financial Restatements Under Review in Securities Fraud Class Action – Contact BFA Law if You Lost Money,Financial Restatements Under Review,ORG,GlobeNewswire,2026-07-13T10:16:00Z
+6,Health Ministry partners with Takeda for US$30m plasma ecosystem,Health Ministry,ORG,Antaranews.com,2026-07-13T10:06:27Z
+6,Health Ministry partners with Takeda for US$30m plasma ecosystem,30,MONEY,Antaranews.com,2026-07-13T10:06:27Z
+6,Health Ministry partners with Takeda for US$30m plasma ecosystem,The Indonesian Health Ministry,ORG,Antaranews.com,2026-07-13T10:06:27Z
+6,Health Ministry partners with Takeda for US$30m plasma ecosystem,first,ORDINAL,Antaranews.com,2026-07-13T10:06:27Z
+7,Trust-based cyberattacks replacing traditional hacking as biggest threat to financial institutions: Report,AI,ORG,BusinessLine,2026-07-13T10:03:25Z
+8,Tetra Pak Introduces Industry-first Carton Packaging for Shelf-stable Tuna,Tetra Pak Introduces Industry-first,ORG,Antaranews.com,2026-07-13T10:02:42Z
+8,Tetra Pak Introduces Industry-first Carton Packaging for Shelf-stable Tuna,Spanish,NORP,Antaranews.com,2026-07-13T10:02:42Z
+8,Tetra Pak Introduces Industry-first Carton Packaging for Shelf-stable Tuna,Jealsa,PERSON,Antaranews.com,2026-07-13T10:02:42Z
+8,Tetra Pak Introduces Industry-first Carton Packaging for Shelf-stable Tuna,first,ORDINAL,Antaranews.com,2026-07-13T10:02:42Z
+9,"Current price of oil as of July 13, 2026","July 13, 2026",DATE,Fortune,2026-07-13T10:00:14Z
+10,Chinese EV makers are outpacing U.S. automakers in overseas investments,Chinese,NORP,CNBC,2026-07-13T10:00:02Z
+10,Chinese EV makers are outpacing U.S. automakers in overseas investments,U.S.,GPE,CNBC,2026-07-13T10:00:02Z
+10,Chinese EV makers are outpacing U.S. automakers in overseas investments,China,GPE,CNBC,2026-07-13T10:00:02Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,EV Charging Cable Market,ORG,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,$5.63 billion,MONEY,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,2033,DATE,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,MarketsandMarkets,ORG,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,DELRAY BEACH,GPE,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,Fla.,GPE,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,"July 13, 2026",DATE,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,the EV Charging Cable Market,ORG,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,USD 2.01 billion,MONEY,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,2026,DATE,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,USD 5.63 billion,MONEY,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,Annual,DATE,PRNewswire,2026-07-13T10:00:00Z
+11,EV Charging Cable Market worth $5.63 billion by 2033 | MarketsandMarkets™,15.8%,PERCENT,PRNewswire,2026-07-13T10:00:00Z
+12,"Iran conflict hits Eurozone growth, forecast cut amid energy crisis",Iran,GPE,Crypto Briefing,2026-07-13T09:49:49Z
+12,"Iran conflict hits Eurozone growth, forecast cut amid energy crisis",Eurozone,ORG,Crypto Briefing,2026-07-13T09:49:49Z
+12,"Iran conflict hits Eurozone growth, forecast cut amid energy crisis",first,ORDINAL,Crypto Briefing,2026-07-13T09:49:49Z
+12,"Iran conflict hits Eurozone growth, forecast cut amid energy crisis",Crypto Briefing,PERSON,Crypto Briefing,2026-07-13T09:49:49Z
+13,Advancing Low-Carbon Manufacturing and Global Sustainability Commitments,Advancing Low-Carbon Manufacturing,PERSON,PRNewswire,2026-07-13T09:49:00Z
+13,Advancing Low-Carbon Manufacturing and Global Sustainability Commitments,ESG,ORG,PRNewswire,2026-07-13T09:49:00Z
+13,Advancing Low-Carbon Manufacturing and Global Sustainability Commitments,ZIBO,ORG,PRNewswire,2026-07-13T09:49:00Z
+13,Advancing Low-Carbon Manufacturing and Global Sustainability Commitments,China,GPE,PRNewswire,2026-07-13T09:49:00Z
+13,Advancing Low-Carbon Manufacturing and Global Sustainability Commitments,"July 13, 2026",DATE,PRNewswire,2026-07-13T09:49:00Z
+13,Advancing Low-Carbon Manufacturing and Global Sustainability Commitments,INTCO Medical,ORG,PRNewswire,2026-07-13T09:49:00Z
+13,Advancing Low-Carbon Manufacturing and Global Sustainability Commitments,2025,DATE,PRNewswire,2026-07-13T09:49:00Z
+13,Advancing Low-Carbon Manufacturing and Global Sustainability Commitments,"Environmental, Social and Governance",ORG,PRNewswire,2026-07-13T09:49:00Z
+15,Oil prices surge 5% as Iran closes Strait of Hormuz,5%,PERCENT,Crypto Briefing,2026-07-13T09:45:57Z
+15,Oil prices surge 5% as Iran closes Strait of Hormuz,Iran,GPE,Crypto Briefing,2026-07-13T09:45:57Z
+15,Oil prices surge 5% as Iran closes Strait of Hormuz,Strait,LOC,Crypto Briefing,2026-07-13T09:45:57Z
+15,Oil prices surge 5% as Iran closes Strait of Hormuz,Hormuz,PERSON,Crypto Briefing,2026-07-13T09:45:57Z
+15,Oil prices surge 5% as Iran closes Strait of Hormuz,the Strait of Hormuz,LOC,Crypto Briefing,2026-07-13T09:45:57Z
+15,Oil prices surge 5% as Iran closes Strait of Hormuz,first,ORDINAL,Crypto Briefing,2026-07-13T09:45:57Z
+15,Oil prices surge 5% as Iran closes Strait of Hormuz,Crypto Briefing,PERSON,Crypto Briefing,2026-07-13T09:45:57Z
+17,"'Super' El Niño Could Trigger Severe Global Food Price Shock Lasting Into 2028, Economists Warn",Super,ORG,Ibtimes.com.au,2026-07-13T09:22:58Z
+17,"'Super' El Niño Could Trigger Severe Global Food Price Shock Lasting Into 2028, Economists Warn",Trigger Severe,PERSON,Ibtimes.com.au,2026-07-13T09:22:58Z
+17,"'Super' El Niño Could Trigger Severe Global Food Price Shock Lasting Into 2028, Economists Warn",2028,DATE,Ibtimes.com.au,2026-07-13T09:22:58Z
+17,"'Super' El Niño Could Trigger Severe Global Food Price Shock Lasting Into 2028, Economists Warn",El Niño,ORG,Ibtimes.com.au,2026-07-13T09:22:58Z
+17,"'Super' El Niño Could Trigger Severe Global Food Price Shock Lasting Into 2028, Economists Warn",Iran,GPE,Ibtimes.com.au,2026-07-13T09:22:58Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,Asian,NORP,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,Kane Wu,PERSON,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,"Iqbal Ahmed
+",PERSON,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,HONG KONG,GPE,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,NEW YORK,GPE,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,July 13,DATE,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,Reuters,ORG,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,South Korean,NORP,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,SK Hynix,PERSON,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,$26.5 billion,MONEY,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,U.S.,GPE,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,last week,DATE,Biztoc.com,2026-07-13T09:22:35Z
+18,Asian tech firms seeking to follow SK Hynix may find foreign investors more selective,AI,GPE,Biztoc.com,2026-07-13T09:22:35Z
